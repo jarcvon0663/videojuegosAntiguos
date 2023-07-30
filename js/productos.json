@@ -1,0 +1,82 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "Need For Speed Underground 2",
+        "imagen": "./img/pc/01.jpg",
+        "categoria": {
+            "nombre": "PC",
+            "id": "PC"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Combat Flight Simulator 2",
+        "imagen": "./img/pc/02.jpg",
+        "categoria": {
+            "nombre": "PC",
+            "id": "PC"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Rise of Nations",
+        "imagen": "./img/pc/03.jpg",
+        "categoria": {
+            "nombre": "PC",
+            "id": "PC"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Empire Earth",
+        "imagen": "./img/pc/04.jpg",
+        "categoria": {
+            "nombre": "PC",
+            "id": "PC"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Call of Duty I",
+        "imagen": "./img/pc/05.jpg",
+        "categoria": {
+            "nombre": "PC",
+            "id": "PC"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-06",
+        "titulo": "Grand Theft Auto San Andreas",
+        "imagen": "./img/pc/06.jpg",
+        "categoria": {
+            "nombre": "PC",
+            "id": "PC"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "",
+        "imagen": "./img/play/01.jpg",
+        "categoria": {
+            "nombre": "PlayStation",
+            "id": "PlayStation"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "",
+        "imagen": "./img/xbox/01.jpg",
+        "categoria": {
+            "nombre": "XBOX",
+            "id": "XBOX"
+        },
+        "precio": 1000
+    }
+]
